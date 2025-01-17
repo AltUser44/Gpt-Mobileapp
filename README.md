@@ -1,12 +1,15 @@
 **Gpt-Mobileapp**
 -------------------------------------------------------------
-![Image](https://github.com/user-attachments/assets/f1b897e6-f8b1-4dd7-8fd6-d697ee47cab1)  
 
 Description
 Gpt-Mobileapp is a ChatGPT-powered social networking application designed to revolutionize how users interact with AI. 
 This app enables real-time chatting with AI-driven responses, customizable chatbot personalities, 
 and advanced interaction configurations. 
 this project provides insights into building cutting-edge applications with React Native.
+
+------------------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/5878c404-8830-47ac-8eb2-51ffd134d74c)
 
 
 **Features**
@@ -17,15 +20,29 @@ Experience seamless, real-time chatting powered by ChatGPT.
 AI-generated responses ensure engaging and dynamic conversations.
 Fully optimized for quick response times and smooth interactions.
 
+--------------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/71b33c0f-c73b-42d7-92e5-7fa60fc71462)
 
 Customizable Chatbot Personality and Mood Settings
 You can personalize your chatbot's personality to match your preferences.
 Adjust mood settings for tailored interactions that feel more human.
 Explore a range of customizable options to make the chatbot uniquely yours.
 
+---------------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/972a5e28-fe6a-420e-8e18-bb4334dd577e)
+
 Seamless Image and Text Generation
 Generate images and text on demand using AI.
 Perfect for creative projects, brainstorming, or just having fun with AI capabilities.
+
+
+-----------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/443cd1a2-ab76-428c-bd1f-04e1b17fdff7)
+
+
 
 
 **How It Works**
