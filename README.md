@@ -1,6 +1,6 @@
 **Gpt-Mobileapp**
 -------------------------------------------------------------
-
+![Image](https://github.com/user-attachments/assets/f1b897e6-f8b1-4dd7-8fd6-d697ee47cab1)  
 
 Description
 Gpt-Mobileapp is a ChatGPT-powered social networking application designed to revolutionize how users interact with AI. 
