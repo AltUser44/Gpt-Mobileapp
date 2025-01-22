@@ -1,7 +1,7 @@
 **Gpt-Mobileapp**
 -------------------------------------------------------------
 
-Is a ChatGPT-powered social networking application designed to revolutionize how users interact with AI. 
+ChatGPT-powered social networking application designed to revolutionize how users interact with AI. 
 This app enables real-time chatting with AI-driven responses, customizable chatbot personalities, 
 and advanced interaction configurations. 
 this project provides insights into building cutting-edge applications with React Native.
